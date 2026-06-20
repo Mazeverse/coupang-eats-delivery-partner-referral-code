@@ -14,3 +14,6 @@ Referral code: `NY80IWEQ`
 Recommended repository name:
 
 `coupang-eats-delivery-partner-referral-code`
+
+
+Live URL: https://coupang-eats-delivery-partner-referral-code.pages.dev/
